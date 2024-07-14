@@ -22,7 +22,4 @@ https://www.roblox.com/games/12673840215/UPDATE-REALISTIC-HOOD-TESTING
 ```
 https://discord.gg/zFFZgHydvr
 ```
-## other script to try out!
-```
-https://discord.gg/midnightcc
-```
+### made by star2
