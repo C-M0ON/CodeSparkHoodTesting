@@ -18,3 +18,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/yM4UNMTd"))()
 ```
 https://www.roblox.com/games/12673840215/UPDATE-REALISTIC-HOOD-TESTING
 ```
+## my discord
+```
+https://discord.gg/zFFZgHydvr
+```
+## other script to try out!
+```
+https://discord.gg/midnightcc
+```
